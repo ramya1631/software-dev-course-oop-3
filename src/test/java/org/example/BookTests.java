@@ -9,7 +9,7 @@ public class BookTests {
     public void testCreateBook() {
         Book book = new Book("The Catcher in the Rye", "J.D. Salinger", 1951, 234);
         assertEquals("The Catcher in the Rye", book.getTitle());
-        assertEquals("J.D. Salinger", book.getAuthor());
+        assertEquals("J.D. Salinger", book.getCreator());
         assertEquals(1951, book.getYear());
         assertEquals(234, book.getPageCount());
     }
