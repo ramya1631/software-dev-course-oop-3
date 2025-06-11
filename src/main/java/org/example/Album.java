@@ -1,7 +1,6 @@
 package org.example;
 
-
-    public class Album extends LibraryItem{
+      public class Album extends LibraryItem{
 
         protected int trackCount;
 
@@ -12,12 +11,6 @@ package org.example;
         public int getTrackCount(){
             return this.trackCount;
         }
-        @Override
-        public void displayInfo() {
-            super.displayInfo();
-            System.out.println("Tracks: " + trackCount);
-        }
-
         @Override
         public String toString() {
             return "Album: " + getTitle() + " by " + getCreator() + " (" + getYear() + ") - " + trackCount + " tracks";

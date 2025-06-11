@@ -13,11 +13,6 @@ public class Movie extends LibraryItem {
     }
 
     @Override
-    public void displayInfo() {
-        super.displayInfo();
-        System.out.println("Duration: " + duration + " minutes");
-    }
-    @Override
     public String toString() {
         return "Movie: " + getTitle() + " by " + getCreator() + " (" + getYear() + ") - " + duration + " minutes";
     }

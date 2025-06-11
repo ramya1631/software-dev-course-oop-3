@@ -23,9 +23,4 @@ public class LibraryItem {
         return year;
     }
 
-    public void displayInfo() {
-        System.out.println("Title: " + title);
-        System.out.println("Creator: " + creator);
-        System.out.println("Year: " + year);
-    }
 }

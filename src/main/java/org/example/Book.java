@@ -12,16 +12,10 @@ public class Book extends LibraryItem {
         return pageCount;
     }
 
-    @Override
-    public void displayInfo() {
-        super.displayInfo();
-        System.out.println("Pages: " + pageCount);
-    }
     public void readBook() {
         System.out.println("Reading \"" + getTitle() + "\" by " + getCreator() + "...");
     }
 
-    @Override
     public String toString() {
         return "Book: " + getTitle() + " by " + getCreator() + " (" + getYear() + ") - " + pageCount + " pages";
     }

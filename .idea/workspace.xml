@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e654d077-1dfc-4957-ac19-1f87429c9084" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LibraryItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AlbumTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AlbumTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/BookTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/BookTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/MovieTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/MovieTests.java" afterDir="false" />
+    <list default="true" id="e654d077-1dfc-4957-ac19-1f87429c9084" name="Changes" comment="completed exercises">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LibraryItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LibraryItem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +64,7 @@
     "last_opened_file_path": "C:/Users/User/Documents/study/software-dev-course-oop-3"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.BookTests">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="software-dev-course-oop-3" />
@@ -148,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.BookTests" />
         <item itemvalue="JUnit.MovieTests" />
-        <item itemvalue="JUnit.MovieTests.testMovieToString" />
         <item itemvalue="JUnit.AlbumTests" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MovieTests.testMovieToString" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +158,30 @@
       <option name="presentableId" value="Default" />
       <updated>1738943626804</updated>
     </task>
+    <task id="LOCAL-00001" summary="completed exercises">
+      <option name="closed" value="true" />
+      <created>1749592921099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749592921099</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed exercises" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/AlbumTests.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
