@@ -11,7 +11,6 @@ package org.example;
         public int getTrackCount(){
             return this.trackCount;
         }
-        @Override
         public String toString() {
             return "Album: " + getTitle() + " by " + getCreator() + " (" + getYear() + ") - " + trackCount + " tracks";
         }

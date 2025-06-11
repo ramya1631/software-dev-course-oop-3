@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e654d077-1dfc-4957-ac19-1f87429c9084" name="Changes" comment="completed exercises">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LibraryItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LibraryItem.java" afterDir="false" />
+    <list default="true" id="e654d077-1dfc-4957-ac19-1f87429c9084" name="Changes" comment="completed all exercises">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Album.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
     "last_opened_file_path": "C:/Users/User/Documents/study/software-dev-course-oop-3"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.BookTests">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="software-dev-course-oop-3" />
@@ -141,10 +140,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.BookTests" />
         <item itemvalue="JUnit.MovieTests" />
         <item itemvalue="JUnit.AlbumTests" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.MovieTests.testMovieToString" />
       </list>
     </recent_temporary>
@@ -166,22 +165,20 @@
       <option name="project" value="LOCAL" />
       <updated>1749592921099</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="completed all exercises">
+      <option name="closed" value="true" />
+      <created>1749612563114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749612563114</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completed exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed exercises" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/example/AlbumTests.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="completed all exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed all exercises" />
   </component>
 </project>
